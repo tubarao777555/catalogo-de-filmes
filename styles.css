@@ -1,0 +1,20 @@
+body{font-family: "Bebas Neue", sans-serif;
+    color: rgb(4, 8, 61);
+    background: rgb(21, 23, 161); 
+    margin: 0px;
+}
+
+header{
+    border-bottom: solid 4px rgba(214, 213, 213, 0.948);
+    font-size: 32px;
+    padding: 20px; 
+    background: rgba(214, 213, 213, 0.948);
+    color:rgb(16, 255, 20);
+   
+}
+
+section{
+background: rgb(64, 1, 1);
+padding-top: 40px;
+padding-bottom: 40px ;
+}
